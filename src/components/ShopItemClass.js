@@ -1,6 +1,6 @@
 import React from 'react';
 import { PropTypes } from 'prop-types';
-import { ShopItem } from '../models/ShopItem';
+import { ShopItem } from '../models/ShopItem.js';
 
 export class ShopItemClass extends React.Component {
   static propTypes = {
